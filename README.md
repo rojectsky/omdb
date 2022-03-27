@@ -1,4 +1,4 @@
-#OMDB API
+# OMDB API
 ## How to run 
 Firstly run `npm install`
 
